@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Sam Billings",
+    "username": "Brad",
+    "email": "Shalini@april.bizz",
+    "address": {
+      "street": "first Light",
+      "suite": "Apt. 404",
+      "city": "Old Trafford",
+      "zipcode": "91898-3872"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Eoin Morgan",
+    "username": "Joe Root",
+    "email": "Shanaya@melissa.cv",
+    "address": {
+      "street": "Victoria Palace",
+      "suite": "Suite 809",
+      "city": "Sydney",
+      "zipcode": "92356-7771"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Stuart Broad",
+    "username": "Amantha",
+    "email": "Nath@yesenia.pet",
+    "address": {
+      "street": "Oval Extension",
+      "suite": "Suite 897",
+      "city": "Headingley",
+      "zipcode": "59520-4156"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Steven Smith",
+    "username": "Karre",
+    "email": "Jennifer.OConner@kory.org",
+    "address": {
+      "street": "Yorkshire Mall",
+      "suite": "Apt. 692",
+      "city": "Capetown",
+      "zipcode": "23919-4253"
+    }
+  },
+  {
+    "id": 5,
+    "name": "David Warner",
+    "username": "Kamran",
+    "email": "Pucio_Hettinger@annie.ca",
+    "address": {
+      "street": "Canberra Walks",
+      "suite": "Suite 359",
+      "city": "New York",
+      "zipcode": "53283"
+    }
+  },
